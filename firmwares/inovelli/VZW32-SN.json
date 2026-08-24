@@ -10,7 +10,7 @@
 	],
 	"upgrades": [
 		{
-			"version": "2.3",
+			"version": "2.03",
 			"channel": "beta",
 			"changelog": "- Fixed an issue where the P20 could not restore its default settings.\n- Changed the default value of P50 (Button Delay) to 3.\n- Optimized the network re-connection logic.\n- Further optimized the interaction logic between the mmWave module and the Z-Wave chip.\n- Optimized the processing logic of the metering module.",
 			"files": [
@@ -22,7 +22,7 @@
 			]
 		},
 		{
-			"version": "2.2",
+			"version": "2.02",
 			"channel": "stable",
 			"changelog": "- Optimized the interaction logic between the switch and the mmWave module.\n- Fixed the incorrect use of duration in the SwitchMultilevel Set command.\n- When the switch is restarted, P240 will be reported to indicate that the switch has been restarted.",
 			"files": [
