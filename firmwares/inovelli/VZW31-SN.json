@@ -10,7 +10,7 @@
 	],
 	"upgrades": [
 		{
-			"version": "2.02",
+			"version": "2.2",
 			"channel": "beta",
 			"changelog": "- Fixed LED color distortion for some colors at low brightness.\n- Fixed the incorrect mapping of dimming duration (P1-P8).\n- Fixed duration in the Switch Multilevel command.",
 			"files": [
@@ -22,7 +22,7 @@
 			]
 		},
 		{
-			"version": "1.04",
+			"version": "1.4",
 			"channel": "stable",
 			"changelog": "- Added Group 7 for fan control.\n- Added the ability to disable the relay when in OnOff + Full Wave mode.\n- Fixed a situation where a lifeline report was not made when a multicast message was received.\n- Resolved a bug in Association Group Behavior.\n- Upgraded the Z-Wave SDK.",
 			"files": [
